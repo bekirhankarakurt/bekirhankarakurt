@@ -9,7 +9,7 @@ firmware, Linux system services, networking stacks and signal-processing pipelin
 [![Repos](https://img.shields.io/badge/public_repos-21-7aa2f7?style=flat-square)](https://github.com/bekirhankarakurt?tab=repositories)
 [![All CI green](https://img.shields.io/badge/CI-all_green-9ece6a?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/bekirhankarakurt?tab=repositories)
 
-<img src="https://skillicons.dev/icons?i=cpp,c,rust,python,cmake,linux,raspberrypi,arduino,githubactions,docker,git,vim&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=cpp,c,rust,python,cmake,linux,raspberrypi,githubactions,docker,git,vim&theme=dark" alt="Tech stack" />
 
 </div>
 
