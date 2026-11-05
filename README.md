@@ -5,7 +5,6 @@
 **Embedded & real-time software developer** — I build things that run close to the hardware:<br/>
 firmware, Linux system services, networking stacks and signal-processing pipelines.
 
-[![Profile views](https://komarev.com/ghpvc/?username=bekirhankarakurt&color=7aa2f7&style=flat-square&label=profile+views)](https://github.com/bekirhankarakurt)
 [![Repos](https://img.shields.io/badge/public_repos-21-7aa2f7?style=flat-square)](https://github.com/bekirhankarakurt?tab=repositories)
 [![All CI green](https://img.shields.io/badge/CI-all_green-9ece6a?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/bekirhankarakurt?tab=repositories)
 
