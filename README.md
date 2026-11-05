@@ -21,14 +21,14 @@ firmware, Linux system services, networking stacks and signal-processing pipelin
 
 ### ⭐ Featured projects
 
-<p align="center">
-<a href="https://github.com/bekirhankarakurt/radar-signal-processing-sim"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bekirhankarakurt&repo=radar-signal-processing-sim&theme=tokyonight&hide_border=true" alt="radar-signal-processing-sim" /></a>
-<a href="https://github.com/bekirhankarakurt/mavlink-ground-station"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bekirhankarakurt&repo=mavlink-ground-station&theme=tokyonight&hide_border=true" alt="mavlink-ground-station" /></a>
-<a href="https://github.com/bekirhankarakurt/uav-mission-planner"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bekirhankarakurt&repo=uav-mission-planner&theme=tokyonight&hide_border=true" alt="uav-mission-planner" /></a>
-<a href="https://github.com/bekirhankarakurt/vision-target-tracker"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bekirhankarakurt&repo=vision-target-tracker&theme=tokyonight&hide_border=true" alt="vision-target-tracker" /></a>
-<a href="https://github.com/bekirhankarakurt/flight-data-recorder"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bekirhankarakurt&repo=flight-data-recorder&theme=tokyonight&hide_border=true" alt="flight-data-recorder" /></a>
-<a href="https://github.com/bekirhankarakurt/telemetry-tui-dashboard"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bekirhankarakurt&repo=telemetry-tui-dashboard&theme=tokyonight&hide_border=true" alt="telemetry-tui-dashboard" /></a>
-</p>
+| Project | What it does | Release |
+|---|---|---|
+| 📡 **[radar-signal-processing-sim](https://github.com/bekirhankarakurt/radar-signal-processing-sim)** | Pulse-Doppler radar: LFM pulse compression, Doppler FFT, CFAR detection | ![release](https://img.shields.io/github/v/release/bekirhankarakurt/radar-signal-processing-sim?style=flat-square&color=7aa2f7&label=) |
+| 🛩️ **[mavlink-ground-station](https://github.com/bekirhankarakurt/mavlink-ground-station)** | MAVLink v2 ground station: live telemetry, missions, PX4 SITL tested | ![release](https://img.shields.io/github/v/release/bekirhankarakurt/mavlink-ground-station?style=flat-square&color=7aa2f7&label=) |
+| 🗺️ **[uav-mission-planner](https://github.com/bekirhankarakurt/uav-mission-planner)** | A* / Theta* / RRT* route planning over terrain and no-fly zones | ![release](https://img.shields.io/github/v/release/bekirhankarakurt/uav-mission-planner?style=flat-square&color=7aa2f7&label=) |
+| 🎯 **[vision-target-tracker](https://github.com/bekirhankarakurt/vision-target-tracker)** | Correlation tracker + Kalman prediction + PID gimbal loop | ![release](https://img.shields.io/github/v/release/bekirhankarakurt/vision-target-tracker?style=flat-square&color=7aa2f7&label=) |
+| 🗃️ **[flight-data-recorder](https://github.com/bekirhankarakurt/flight-data-recorder)** | Power-loss tolerant black box with crash recovery and replay | ![release](https://img.shields.io/github/v/release/bekirhankarakurt/flight-data-recorder?style=flat-square&color=7aa2f7&label=) |
+| 📟 **[telemetry-tui-dashboard](https://github.com/bekirhankarakurt/telemetry-tui-dashboard)** | Rust terminal dashboard with live telemetry charts | ![release](https://img.shields.io/github/v/release/bekirhankarakurt/telemetry-tui-dashboard?style=flat-square&color=7aa2f7&label=) |
 
 <details>
 <summary><b>📂 All 21 projects (with live CI status)</b></summary>
@@ -87,11 +87,11 @@ firmware, Linux system services, networking stacks and signal-processing pipelin
 ### 📈 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bekirhankarakurt&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirhankarakurt&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bekirhankarakurt&theme=tokyonight" alt="Profile summary" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bekirhankarakurt&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bekirhankarakurt&theme=tokyonight" alt="Repos per language" />
+  <img height="170" src="https://streak-stats.demolab.com?user=bekirhankarakurt&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ### 🚧 Currently working on
