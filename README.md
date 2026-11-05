@@ -1,30 +1,37 @@
-# İsmet Bekirhan Karakurt
+<div align="center">
 
-**Embedded & real-time systems engineer — avionics links, sensor fusion, radar/vision, UAV software**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Bekirhan+%F0%9F%91%8B;Embedded+%26+Real-Time+Software;UAV+%C2%B7+Avionics+%C2%B7+Radar+%C2%B7+Vision" alt="Typing intro" />
 
-I work at a robotics company on Jetson, ESP32 and Raspberry Pi platforms with lidar and sonar sensors, and build open-source embedded and real-time software in my own time. I am targeting defense and aerospace software roles.
+**Embedded & real-time software developer** — I build things that run close to the hardware:<br/>
+firmware, Linux system services, networking stacks and signal-processing pipelines.
 
-### What I build
+[![Profile views](https://komarev.com/ghpvc/?username=bekirhankarakurt&color=7aa2f7&style=flat-square&label=profile+views)](https://github.com/bekirhankarakurt)
+[![Repos](https://img.shields.io/badge/public_repos-21-7aa2f7?style=flat-square)](https://github.com/bekirhankarakurt?tab=repositories)
+[![All CI green](https://img.shields.io/badge/CI-all_green-9ece6a?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/bekirhankarakurt?tab=repositories)
 
-- **Avionics and UAV software:** MAVLink ground control, mission planning, ADS-B decoding, flight data recording, attitude estimation.
-- **Sensor processing:** radar signal processing, visual target tracking, CAN bus analysis.
-- **Embedded firmware:** STM32 + FreeRTOS and ESP32 nodes with bootloaders, drivers and host-side tests.
-- **Real-time systems and networking:** lock-free data structures, DDS-style middleware, reliable UDP, latency benchmarking.
+<img src="https://skillicons.dev/icons?i=cpp,c,rust,python,cmake,linux,raspberrypi,arduino,githubactions,docker,git,vim&theme=dark" alt="Tech stack" />
 
-## Tech stack
+</div>
 
-![C++17](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4C9A2A)
-![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white)
-![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?logo=espressif&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+---
 
-## Featured projects
+### 🛰️ Focus areas
+
+`embedded Linux` · `RTOS firmware` · `UAV / avionics software` · `radar & vision` · `real-time networking` · `performance & concurrency`
+
+### ⭐ Featured projects
+
+<p align="center">
+<a href="https://github.com/bekirhankarakurt/radar-signal-processing-sim"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bekirhankarakurt&repo=radar-signal-processing-sim&theme=tokyonight&hide_border=true" alt="radar-signal-processing-sim" /></a>
+<a href="https://github.com/bekirhankarakurt/mavlink-ground-station"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bekirhankarakurt&repo=mavlink-ground-station&theme=tokyonight&hide_border=true" alt="mavlink-ground-station" /></a>
+<a href="https://github.com/bekirhankarakurt/uav-mission-planner"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bekirhankarakurt&repo=uav-mission-planner&theme=tokyonight&hide_border=true" alt="uav-mission-planner" /></a>
+<a href="https://github.com/bekirhankarakurt/vision-target-tracker"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bekirhankarakurt&repo=vision-target-tracker&theme=tokyonight&hide_border=true" alt="vision-target-tracker" /></a>
+<a href="https://github.com/bekirhankarakurt/flight-data-recorder"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bekirhankarakurt&repo=flight-data-recorder&theme=tokyonight&hide_border=true" alt="flight-data-recorder" /></a>
+<a href="https://github.com/bekirhankarakurt/telemetry-tui-dashboard"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bekirhankarakurt&repo=telemetry-tui-dashboard&theme=tokyonight&hide_border=true" alt="telemetry-tui-dashboard" /></a>
+</p>
+
+<details>
+<summary><b>📂 All 21 projects (with live CI status)</b></summary>
 
 ### UAV & Avionics
 
@@ -67,26 +74,28 @@ I work at a robotics company on Jetson, ESP32 and Raspberry Pi platforms with li
 | [home-network-ids](https://github.com/bekirhankarakurt/home-network-ids) | Intrusion detection: port-scan, ARP-spoofing and rogue-device detection from raw sockets or pcap | Rust | [![CI](https://github.com/bekirhankarakurt/home-network-ids/actions/workflows/ci.yml/badge.svg)](https://github.com/bekirhankarakurt/home-network-ids/actions/workflows/ci.yml) |
 | [protocol-codegen](https://github.com/bekirhankarakurt/protocol-codegen) | Schema-to-code generator: C++ serializers with CRC framing and Wireshark Lua dissectors | C++17, Lua | [![CI](https://github.com/bekirhankarakurt/protocol-codegen/actions/workflows/ci.yml/badge.svg)](https://github.com/bekirhankarakurt/protocol-codegen/actions/workflows/ci.yml) |
 
-## Engineering practices across all projects
+</details>
 
-- Warnings-as-errors builds on every CI run
-- Sanitizers (ASan/UBSan, TSan for concurrent code)
-- CodeQL static analysis and Dependabot updates
-- Code coverage reporting and published API docs
-- Reproducible releases with SHA256SUMS
-- Simulation and replay modes, so everything runs without hardware
+### 🔧 How every project is built
 
-## GitHub stats
+| | |
+|---|---|
+| ✅ Warnings-as-errors builds, GCC + Clang | 🧪 ASan / UBSan / TSan in CI |
+| 🔍 CodeQL, cppcheck, clang-tidy | 📊 Coverage reports + API docs on Pages |
+| 📦 Versioned releases with SHA256SUMS | 🎮 Simulation & replay modes — runs without hardware |
 
-<p>
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bekirhankarakurt&show_icons=true&hide_border=true&theme=default&count_private=false" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirhankarakurt&layout=compact&hide_border=true&theme=default" />
+### 📈 Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bekirhankarakurt&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirhankarakurt&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bekirhankarakurt&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
-## Currently working on
+### 🚧 Currently working on
 
-Avionics data buses, MISB KLV metadata and 6-DOF flight simulation.
+MIL-STD-1553 & ARINC 429 avionics buses · MISB KLV video metadata · 6-DOF flight simulation
 
----
-
-[github.com/bekirhankarakurt](https://github.com/bekirhankarakurt)
+<div align="center"><sub>Bekirhan Karakurt · <a href="https://github.com/bekirhankarakurt">github.com/bekirhankarakurt</a></sub></div>
